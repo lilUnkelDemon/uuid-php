@@ -25,9 +25,9 @@ function php_UUID($name_space, $string) {
     );
   }
 
-$php_UUID = php_UUID('5f6384bfec4ca0b2d4114a13aa2a5435', 'delftstack!');
+$php_UUID = php_UUID('5f6384bfec4ca0b2d4114a13aa2a5435', 'amirmomeni!');
 echo $php_UUID;
-$php_UUID = php_UUID('591531f16f581b69a390980eb282ba83', 'this is delftstack!');
+$php_UUID = php_UUID('591531f16f581b69a390980eb282ba83', 'this is amirmomeni!');
 echo "<br>";
 echo $php_UUID;
 ?>
